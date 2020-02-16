@@ -1,24 +1,7 @@
-# vue-todo-list
+# Todo list project
 
-## Project setup
-```
-npm install
-```
+Todo list project written with the help of Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Todo tasks are stored and taken from JSONPlaceholder.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Vue.js image](https://vuejs.org/images/logo.png)
